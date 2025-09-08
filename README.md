@@ -1,3 +1,6 @@
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Prince+Gupta!+%F0%9F%91%8B)
+
 <h1 align="center">Hi 👋, I'm Prince Gupta</h1>
 <h3 align="center">I’m a B.Tech CSE (AIML) student passionate about building full-stack projects and exploring the world of AI.</h3>
 
